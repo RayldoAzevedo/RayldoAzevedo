@@ -14,5 +14,5 @@
 - Git/GitHub 🖖
 Entre outras
 
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG94bDI2M2ltNWpoMXU3YXo0OHVscXFqY2UyODJ4OG5pbXc2ZDFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGC8nIdwGgjgpa0/giphy.gif" width="500px"  />
 
