@@ -110,10 +110,10 @@ volumes:
 
 ## 📫 Contato
 
-* **Instagram:** [@rayrayazevedo](https://www.instagram.com/rayrayazevedo/) 
-* **WhatsApp:** [Fale comigo](https://wa.me/5562991472313)
-* **LinkedIn:** [(https://www.linkedin.com/in/rayldo-azevedo-58346b184/)]
-* **E-mail:** (rayldoazevedo@gmail.com)
+* Instagram: @rayrayazevedo - https://www.instagram.com/rayrayazevedo/
+* WhatsApp: Fale comigo - https://wa.me/5562991472313
+* LinkedIn: - https://www.linkedin.com/in/rayldo-azevedo-58346b184/
+* E-mail: - rayldoazevedo@gmail.com
 
 
 ![Rayldo GitHub stats](https://github-readme-stats.vercel.app/api?username=RayldoAzevedo&show_icons=true&theme=radical)
