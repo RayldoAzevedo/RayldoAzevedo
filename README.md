@@ -43,6 +43,18 @@
 
 ---
 
+📫 Contato
+
+Instagram: @azevedomoveis (ajuste para o seu real)
+
+WhatsApp: Fale comigo _(substituir pelo seu número)
+
+LinkedIn: (link)
+
+E-mail: (se quiser exibir)
+
+Dica: mantenha um e-mail profissional e um banner social (1200×630) no GitHub para reforçar sua marca.
+
 ## 🧩 Estrutura de repositórios (padrão sugerido)
 
 ```
@@ -106,14 +118,4 @@ services:
 volumes:
   pgdata:
 
----
 
-## 📫 Contato
-
-* Instagram: @rayrayazevedo - https://www.instagram.com/rayrayazevedo/
-* WhatsApp: Fale comigo - https://wa.me/5562991472313
-* LinkedIn: - https://www.linkedin.com/in/rayldo-azevedo-58346b184/
-* E-mail: - rayldoazevedo@gmail.com
-
-
-![Rayldo GitHub stats](https://github-readme-stats.vercel.app/api?username=RayldoAzevedo&show_icons=true&theme=radical)
