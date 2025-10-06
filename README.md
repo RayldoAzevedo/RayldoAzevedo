@@ -1,5 +1,4 @@
 # Olá! Eu sou o Rayldo Azevedo 👋
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG94bDI2M2ltNWpoMXU3YXo0OHVscXFqY2UyODJ4OG5pbXc2ZDFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGC8nIdwGgjgpa0/giphy.gif" width="200px"  />
 
 **Desenvolvedor Full‑Stack (Angular/NestJS/Node.js)** com foco em produtos web, automações e performance. Hoje construo soluções para e‑commerce e agendamentos esportivos, usando **Angular 19**, **NestJS/Node.js**, **TypeScript**, **MongoDB/PostgreSQL** e práticas modernas de **DevOps** (Docker, CI/CD, VPS e nuvem).
 
@@ -144,10 +143,10 @@ jobs:
 
 ## 📫 Contato
 
-* **Instagram:** [@azevedomoveis](https://instagram.com/) *(ajuste para o seu real)*
-* **WhatsApp:** [Fale comigo](https://wa.me/5599999999999) _(substituir pelo seu número)
+* **Instagram:** [@rayrayazevedo](https://www.instagram.com/rayrayazevedo/) 
+* **WhatsApp:** [Fale comigo](https://wa.me/5562991472313)
 * **LinkedIn:** (link)
-* **E-mail:** (se quiser exibir)
+* **E-mail:** (rayldoazevedo@gmail.com)
 
 > Dica: mantenha **um e-mail profissional** e um **banner social** (1200×630) no GitHub para reforçar sua marca.
 
@@ -179,10 +178,5 @@ Você pode adicionar estatísticas com esses projetos open source:
 ---
 
 > **Nota importante:** Removi menções antigas (ex.: *Fox Grãos*) e foquei no que você vem usando hoje (Angular 19, NestJS/Node, Docker, PostgreSQL/Mongo, Supabase, Vercel/Railway, n8n, OCR). Ajuste os links e números onde indicado.
-
-
-
-
-
 
 ![Rayldo GitHub stats](https://github-readme-stats.vercel.app/api?username=RayldoAzevedo&show_icons=true&theme=radical)
