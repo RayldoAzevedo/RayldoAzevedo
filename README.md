@@ -20,7 +20,6 @@
 
 ## 📌 Projetos em destaque
 
-> Sugestões de repositórios para fixar (Pins) no seu perfil:
 
 * **Arena Mix – Agendamento de Campos**
   *Monorepo (Angular + NestJS) com autenticação, reservas e administração.*
@@ -42,8 +41,6 @@
   *Utilitário de validação com exemplos práticos.*
   **Stack:** HTML, JS.
 
-> Dica: Se algum desses ainda não estiver público, crie os repositórios com README e roadmap. Use labels/issues para backlog e milestones para o planejamento.
-
 ---
 
 ## 🧩 Estrutura de repositórios (padrão sugerido)
@@ -56,12 +53,6 @@ root
 ├─ .github/workflows/ (CI/CD)
 └─ docker/ (Dockerfiles, compose)
 ```
-
-* **Commits semânticos:** `feat:`, `fix:`, `chore:`, `docs:`, `refactor:` …
-* **Branches:** `main` (estável), `dev` (integração), `feat/<nome>`, `fix/<nome>`
-* **Padrões de PR:** checklist de testes, screenshots, notas de deploy.
-
----
 
 ## 🛠️ Templates úteis
 
@@ -114,30 +105,6 @@ services:
       - pgdata:/var/lib/postgresql/data
 volumes:
   pgdata:
-```
-
-### CI – GitHub Actions (build & lint Angular)
-
-```yml
-name: CI Front
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: 'npm'
-      - run: npm ci
-      - run: npm run lint
-      - run: npm run build
-```
 
 ---
 
@@ -145,7 +112,7 @@ jobs:
 
 * **Instagram:** [@rayrayazevedo](https://www.instagram.com/rayrayazevedo/) 
 * **WhatsApp:** [Fale comigo](https://wa.me/5562991472313)
-* **LinkedIn:** (link)
+* **LinkedIn:** [(https://www.linkedin.com/in/rayldo-azevedo-58346b184/)]
 * **E-mail:** (rayldoazevedo@gmail.com)
 
 
