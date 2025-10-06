@@ -148,35 +148,5 @@ jobs:
 * **LinkedIn:** (link)
 * **E-mail:** (rayldoazevedo@gmail.com)
 
-> Dica: mantenha **um e-mail profissional** e um **banner social** (1200×630) no GitHub para reforçar sua marca.
-
----
-
-## 📊 Métricas (opcional)
-
-Você pode adicionar estatísticas com esses projetos open source:
-
-```md
-![Rayldo GitHub stats](https://github-readme-stats.vercel.app/api?username=RayldoAzevedo&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayldoAzevedo&layout=compact)
-```
-
-> Evite métricas se ficarem desatualizadas; mantenha só o que agrega valor visual.
-
----
-
-## ✅ Checklist para deixar o perfil redondo
-
-* [ ] Atualizar bio: **Desenvolvedor Full‑Stack | Angular/NestJS/Node | Docker | PostgreSQL/Mongo**
-* [ ] Fixar (Pin) 6 repositórios mais relevantes
-* [ ] Adicionar tópicos (topics) nos repos: `angular`, `nestjs`, `nodejs`, `postgresql`, `mongodb`, `docker`, `supabase`, `automation`, `ecommerce`, `scheduling`
-* [ ] Criar `README.md` com este conteúdo no repositório **`RayldoAzevedo/RayldoAzevedo`**
-* [ ] Ajeitar links de contato (Instagram/WhatsApp/LinkedIn)
-* [ ] Subir banner social com sua identidade visual
-* [ ] Configurar Actions básicas (lint/build/test)
-
----
-
-> **Nota importante:** Removi menções antigas (ex.: *Fox Grãos*) e foquei no que você vem usando hoje (Angular 19, NestJS/Node, Docker, PostgreSQL/Mongo, Supabase, Vercel/Railway, n8n, OCR). Ajuste os links e números onde indicado.
 
 ![Rayldo GitHub stats](https://github-readme-stats.vercel.app/api?username=RayldoAzevedo&show_icons=true&theme=radical)
