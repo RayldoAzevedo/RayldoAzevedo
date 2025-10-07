@@ -50,10 +50,12 @@ Instagram: @rayrayazevedo https://www.instagram.com/rayrayazevedo/
 WhatsApp: Fale comigo - https://wa.me/5562991472313
 
 LinkedIn: https://www.linkedin.com/in/rayldo-azevedo-58346b184/
+
 E-mail: rayldoazevedo@gmail.com
 
-Dica: mantenha um e-mail profissional e um banner social (1200×630) no GitHub para reforçar sua marca.
-## 🧩 Estrutura de repositórios (padrão sugerido)
+---
+
+## 🧩 Estrutura de repositórios
 
 ```
 root
@@ -63,8 +65,6 @@ root
 ├─ .github/workflows/ (CI/CD)
 └─ docker/ (Dockerfiles, compose)
 ```
-
-## 🛠️ Templates úteis
 
 ### `.editorconfig`
 
@@ -116,4 +116,14 @@ services:
 volumes:
   pgdata:
 
+```
+📫 Contato
+
+Instagram: @rayrayazevedo https://www.instagram.com/rayrayazevedo/
+
+WhatsApp: Fale comigo - https://wa.me/5562991472313
+
+LinkedIn: https://www.linkedin.com/in/rayldo-azevedo-58346b184/
+
+E-mail: rayldoazevedo@gmail.com
 
