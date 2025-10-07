@@ -66,57 +66,7 @@ root
 └─ docker/ (Dockerfiles, compose)
 ```
 
-### `.editorconfig`
 
-```
-root = true
-[*]
-charset = utf-8
-end_of_line = lf
-indent_style = space
-indent_size = 2
-insert_final_newline = true
-trim_trailing_whitespace = true
-```
-
-### `.gitignore` (Node + Angular)
-
-```
-node_modules/
-dist/
-coverage/
-.env*
-.eslintcache
-.angular/cache
-**/*.log
-```
-
-### `docker-compose.yml` (exemplo simples API + DB)
-
-```yml
-services:
-  api:
-    build: ./api
-    ports:
-      - "3000:3000"
-    env_file:
-      - ./api/.env
-    depends_on:
-      - db
-  db:
-    image: postgres:16
-    ports:
-      - "5432:5432"
-    environment:
-      POSTGRES_USER: rayldo
-      POSTGRES_PASSWORD: secret
-      POSTGRES_DB: app
-    volumes:
-      - pgdata:/var/lib/postgresql/data
-volumes:
-  pgdata:
-
-```
 📫 Contato
 
 Instagram: @rayrayazevedo https://www.instagram.com/rayrayazevedo/
